@@ -1,6 +1,6 @@
 
 <h1 align="center">
-	Minishell
+	An Advanced Minishell
 </h1>
 <p align="center">
 	This project helped you? Give it a 🌟!
