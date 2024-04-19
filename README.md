@@ -1,11 +1,16 @@
 
-# Minishell
-Made by [*Florent*](https://github.com/SarKaZm19) & [*Ulysse*](https://github.com/ulyssegerkens).
+<h1 align="center">
+	Minishell
+</h1>
+<p align="center">
+	This project helped you? Give it a 🌟!
+</p>
 
 ## 🐚 General information
 Version: 6. Bonus included. <br>
 Compliant with the new rules in version 6.1. about using global variables only for signals.<br>
 Built with the latest bash version: [GNU bash, version 5.2.21(1)-release (x86_64-apple-darwin19.6.0)](https://www.gnu.org/software/bash/).<br>
+Made by [Florent](https://github.com/SarKaZm19) & [Ulysse](https://github.com/ulyssegerkens)<br>
 
 ## 🚀 Set-up
 To keep the GitHub repository tidy and to avoid displaying library code, the lib directory is archived. Follow the steps below to set up and run the project:
